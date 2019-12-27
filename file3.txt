@@ -1,1 +1,1 @@
-this is file3.txt a new text. add new changes
+this is file3.txt a new text. add new changes. add 2nd changed.
